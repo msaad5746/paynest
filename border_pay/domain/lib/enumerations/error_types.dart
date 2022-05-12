@@ -1,0 +1,6 @@
+enum ErrorTypes {
+  CONNECTION_LOST,
+  NO_DATA_AVAILABLE,
+  MATCH_CANCELLED,
+  EMPTY,
+}
