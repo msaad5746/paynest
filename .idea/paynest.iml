@@ -867,6 +867,18 @@
       <excludeFolder url="file://$MODULE_DIR$/paynest_data/.fvm/flutter_sdk/dev/integration_tests/ios_add2app_life_cycle/flutterapp/build" />
       <excludeFolder url="file://$MODULE_DIR$/paynest_data/.fvm/flutter_sdk/dev/integration_tests/ios_add2app_life_cycle/flutterapp/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/paynest_data/.fvm/flutter_sdk/dev/integration_tests/ios_add2app_life_cycle/flutterapp/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/border_pay/domain/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/border_pay/domain/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/border_pay/domain/build" />
+      <excludeFolder url="file://$MODULE_DIR$/school_pay/domain/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/school_pay/domain/build" />
+      <excludeFolder url="file://$MODULE_DIR$/school_pay/domain/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/data/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/data/build" />
+      <excludeFolder url="file://$MODULE_DIR$/data/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/common_ui/build" />
+      <excludeFolder url="file://$MODULE_DIR$/common_ui/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/common_ui/.pub" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
