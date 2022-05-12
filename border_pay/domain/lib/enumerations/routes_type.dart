@@ -1,0 +1,4 @@
+enum RoutesType {
+  HOME,
+  PROFILE,
+}
