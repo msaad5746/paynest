@@ -1,0 +1,8 @@
+enum HomeTypes {
+  GREETINGS,
+  NEXT_GAME,
+  LAST_GAME,
+  SUGGESTIONS,
+  GAME_PHASES,
+  LOADING_MATCH,
+}
